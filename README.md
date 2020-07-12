@@ -5,7 +5,7 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 <p align="center">
   <a href="https://about.me/thejamietaylor">
-    <img src="./Resources/ColouredBadges/HeHim.svg" alt="Pronouns: He/Him">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/hehim.svg" alt="Pronouns: He/Him">
   </a>
 </p>
 
@@ -13,13 +13,13 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 <p align="center">
   <a href="https://dotnetcore.gaprogman.com">
-    <img src="./Resources/ColouredBadges/Blogs/wordpress.svg" alt="A Journey in .NET Core">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Blogs/wordpress.svg" alt="A Journey in .NET Core">
   </a>
   <a href="https://wafflingtaylors.rocks">
-    <img src="./Resources/Podfonts/h-libsyn.svg" alt="Waffling Taylors" style="max-height:50px;">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/Podfonts/h-libsyn.svg" alt="Waffling Taylors" style="max-height:50px;">
   </a>
   <a href="https://dev.to/dotnetcoreblog">
-    <img src="./Resources/ColouredBadges/Blogs/devto.svg" alt="dev">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Blogs/devto.svg" alt="dev">
   </a>
 </p>
 
@@ -29,13 +29,13 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 <p align="center">
   <a href="https://dotnetcore.show">
-    <img src="./Resources/dotnetcoreshow.svg" alt="The .NET Core Show" style="max-height:50px;">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/dotnetcoreshow.svg" alt="The .NET Core Show" style="max-height:50px;">
   </a>
   <a href="https://wafflingtaylors.rocks">
-    <img src="./Resources/Podfonts/h-libsyn.svg" alt="Waffling Taylors" style="max-height:50px;">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/Podfonts/h-libsyn.svg" alt="Waffling Taylors" style="max-height:50px;">
   </a>
   <a href="https://tabsnadspaces.io">
-    <img src="./Resources/tabsandspaces.svg" alt="Tabs & Spaces"
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/tabsandspaces.svg" alt="Tabs & Spaces"
     style="max-height:50px;">
   </a>
 </p>
@@ -46,51 +46,51 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 <p align="center">
   <a href="http://dot.net/core">
-    <img src="./Resources/Tech/csharp.svg" alt="C#" style="max-height:30px;vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/tech/csharp.svg" alt="C#" style="max-height:30px;vertical-align:top; margin:4px">
   </a>
   
   <a href="http://dot.net/core">
-    <img src="./Resources/Tech/dotnetcore.svg" alt="C#" style="max-width:30px;vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/tech/dotnetcore.svg" alt="C#" style="max-width:30px;vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.jetbrains.com/rider/">
-    <img src="./Resources/ColouredBadges/Dev/jetbrains_rider.svg" alt="JetBrains Rider" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/jetbrains_rider.svg" alt="JetBrains Rider" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://code.visualstudio.com/">
-    <img src="./Resources/Tech/vscode.svg" alt="Visual Studio Code" style="max-width:30px;vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/tech/vscode.svg" alt="Visual Studio Code" style="max-width:30px;vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.nuget.org/profiles/GaProgMan">
-    <img src="./Resources/ColouredBadges/Dev/nuget.svg" alt="Nuget" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/nuget.svg" alt="Nuget" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://angular.io/">
-    <img src="./Resources/ColouredBadges/Dev/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://hub.docker.com/u/gaprogman/">
-    <img src="./Resources/ColouredBadges/Dev/dockerhub.svg" alt="Docker" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/dockerhub.svg" alt="Docker" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/">
-    <img src="./Resources/ColouredBadges/Dev/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/html.svg" alt="HTML5" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.npmjs.com/">
-    <img src="./Resources/ColouredBadges/Dev/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://azure.microsoft.com/en-gb/">
-    <img src="./Resources/ColouredBadges/Dev/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://dotnet.microsoft.com/apps/xamarin">
-    <img src="./Resources/ColouredBadges/Dev/xamarin_ios.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/xamarin_ios.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://dotnet.microsoft.com/apps/xamarin">
-    <img src="./Resources/ColouredBadges/Dev/xamarin_Android.svg" alt="Xamarin.Android" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Dev/xamarin_android.svg" alt="Xamarin.Android" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -100,35 +100,35 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 <p align="center">
   <a href="https://linkedin.com/in/jamie-taylor-57602959/">
-    <img src="./Resources/ColouredBadges/Social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://www.youtube.com/channel/UCTDz8IxVCKPmhLemR9eOLPQ">
-    <img src="./Resources/ColouredBadges/Streaming/youtube.svg" alt="YouTube - .NET Core" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Streaming/youtube.svg" alt="YouTube - .NET Core" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.twitch.tv/gaprogman">
-    <img src="./Resources/ColouredBadges/Streaming/twitch.svg" alt="Twitch - .NET Core" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Streaming/twitch.svg" alt="Twitch - .NET Core" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://stackoverflow.com/users/1143474/jamie-taylor">
-    <img src="./Resources/ColouredBadges/Social/stackoverflow.svg" alt="Stackoverflow" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Social/stackoverflow.svg" alt="Stackoverflow" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://twitter.com/podcasterjay">
-    <img src="./Resources/ColouredBadges/Social/Twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.meetup.com/WordPress-Leeds/members/42723472/">
-    <img src="./Resources/ColouredBadges/Social/Meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Social/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.youtube.com/channel/UCHISGX5jaUBY_B7GuBGe9Pg">
-    <img src="./Resources/ColouredBadges/Streaming/youtube.svg" alt="YouTube - Waffling Taylors" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Streaming/youtube.svg" alt="YouTube - Waffling Taylors" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.twitch.tv/wafflingtaylors">
-    <img src="./Resources/ColouredBadges/Streaming/twitch.svg" alt="Twitch - Waffling Taylors" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/Streaming/twitch.svg" alt="Twitch - Waffling Taylors" style="vertical-align:top; margin:4px">
   </a>
 
 _note: Duplicate YouTube and Twitch here are because I contribute to two channels for each_
