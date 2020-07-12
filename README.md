@@ -46,7 +46,7 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 <p align="center">
   <a href="http://dot.net/core">
-    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/tech/csharp.svg" alt="C#" style="max-height:30px;vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/tech/csharp.svg" alt="C#" style="max-width:30px;vertical-align:top; margin:4px">
   </a>
   
   <a href="http://dot.net/core">
