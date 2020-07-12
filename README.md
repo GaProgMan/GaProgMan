@@ -9,7 +9,7 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
   </a>
 </p>
 
-### Blogs
+### Blogs ⌨️
 
 <p align="center">
   <a href="https://dotnetcore.gaprogman.com">
@@ -25,7 +25,7 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 ---
 
-### Podcasts
+### Podcasts 🎙️
 
 <p align="center">
   <a href="https://dotnetcore.show">
@@ -42,7 +42,7 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 ---
 
-### Tech that I use
+### Tech that I use 🧰
 
 <p align="center">
   <a href="http://dot.net/core">
@@ -96,7 +96,7 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 ---
 
-### Find Me @
+### Find Me @ 📣
 
 <p align="center">
   <a href="https://linkedin.com/in/jamie-taylor-57602959/">
