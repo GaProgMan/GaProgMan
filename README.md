@@ -1,4 +1,4 @@
-Jamie "GaProgMan" Taylor is a .NET software craftsman, full stack developer and DevOps engineers, and a podcast creator, producer, editor, and host - i.e. podcasting dogsbody. Since 2016, he has been [writing](https://dotnetcore.gaprogman.com/), speaking and [podcasting](https://dotnetcore.show/) about .NET Core (soon to be renamed .NET 5).
+Jamie "GaProgMan" Taylor is a .NET software craftsman, full stack developer and DevOps engineer, and a podcast creator, producer, editor, and host - i.e. podcasting dogsbody. Since 2016, he has been [writing](https://dotnetcore.gaprogman.com/), speaking and [podcasting](https://dotnetcore.show/) about .NET Core (soon to be renamed .NET 5).
 
 The badges on this readme are taken from the amazing [ColouredBadges](https://github.com/MikeCodesDotNET/ColoredBadges) and [PodFonts](https://github.com/whitefish-creative-ltd/podfonts), repos. So definitely check those out.
 
