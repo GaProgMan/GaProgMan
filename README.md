@@ -4,11 +4,11 @@ The badges on this readme are taken from the amazing [ColouredBadges](https://gi
 
 ### Stats
 
-https://github-readme-stats.vercel.app/api?username=gaprogman&count_private=true&show_icons=true
+![GaProgMan's stats](https://github-readme-stats.vercel.app/api?username=gaprogman&count_private=true&show_icons=true)
 
 ### Top Languages
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=gaprogman
+![GaProgMan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaprogman)
 
 
 <p align="center">
