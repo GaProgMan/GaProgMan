@@ -1,20 +1,45 @@
-Jamie "GaProgMan" Taylor is a .NET software craftsman, full stack developer and DevOps engineer, and a podcast creator, producer, editor, and host - i.e. podcasting dogsbody. Since 2016, he has been [writing](https://dotnetcore.gaprogman.com/), speaking and [podcasting](https://dotnetcore.show/) about .NET Core (soon to be renamed .NET 5).
+# Hi 👋 My name is Jamie
 
-The badges on this readme are taken from the amazing [ColouredBadges](https://github.com/MikeCodesDotNET/ColoredBadges), [PodFonts](https://github.com/whitefish-creative-ltd/podfonts) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) repos. So definitely check those out.
+## .NET Software Craftsman
 
-### Stats
+Jamie "GaProgMan" Taylor is a .NET software craftsman, full stack developer and DevOps engineer, and a podcast creator, producer, editor, and host - i.e. podcasting dogsbody. Since 2016, he has been writing, speaking and podcasting about .NET.
 
-![GaProgMan's stats](https://github-readme-stats.vercel.app/api?username=gaprogman&count_private=true&show_icons=true)
+* 🌍  I'm based in Leeds, UK
+* * 🧠  I'm learning golang
 
-### Top Languages
+<a href="https://www.twitter.com/podcasterjay" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/podcasterjay?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/></a>
 
-![GaProgMan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaprogman)
+### Skills
 
+<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET" /></a></p>
+
+
+### Socials
+
+<p align="left">
+<a href="https://www.dev.to/dotNetCoreBlog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/gaprogman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb-jamie-taylor-57602959" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://thedotnetcorepodcast.libsyn.com/rss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/1143474/jamie-taylor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/podcasterjay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/c/JamieTaylorDotNetCore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<a href="https://www.twitch.tv/gaprogman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/gaprogman"><img src="https://github-readme-stats.vercel.app/api?username=gaprogman&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="gaprogman's GitHub stats" /></a>
+
+<a href="https://github.com/gaprogman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaprogman&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
 
 <p align="center">
-  <a href="https://about.me/thejamietaylor">
-    <img src="https://raw.githubusercontent.com/GaProgMan/GaProgMan/master/Resources/ColouredBadges/hehim.svg" alt="Pronouns: He/Him">
-  </a>
+  <a href="https://www.buymeacoffee.com/dotnetcoreshow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
 
 ### Blogs ⌨️
